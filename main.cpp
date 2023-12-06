@@ -5,7 +5,7 @@ int a , b;
 cin >> a ;
 
 while (true){
-b++
+b++;
 if (b>10)
 break;
 }
